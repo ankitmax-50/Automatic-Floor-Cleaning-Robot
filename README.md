@@ -1,4 +1,5 @@
 # Automatic Floor Cleaning Robot
+![Robot](a_well_lit_indoor_photo_showing_a_diy_robotic_clea.png)
 
 This project is a simple automatic floor cleaning robot made for our college/project work using Arduino components and basic sensors.
 
