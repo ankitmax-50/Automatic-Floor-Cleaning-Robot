@@ -1,0 +1,9 @@
+Arduino UNO
+L298N Motor Driver
+Ultrasonic Sensor HC-SR04
+DC Motors
+Robot Chassis
+Water Pump
+Battery
+Connecting Wires
+Cleaning Mop
