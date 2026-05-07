@@ -1,0 +1,49 @@
+AUTOMATIC FLOOR CLEANING ROBOT
+
+INTRODUCTION
+
+The Automatic Floor Cleaning Robot is a smart cleaning system designed using Arduino and basic electronic components. The main purpose of this project is to reduce human effort in floor cleaning by using an automated robotic system.
+
+This robot can move automatically on the floor and detect obstacles using ultrasonic sensors. It also includes a water spraying mechanism for basic floor cleaning.
+
+OBJECTIVE
+
+- To design an automatic cleaning robot
+- To understand Arduino programming
+- To learn motor and sensor interfacing
+- To develop a low-cost automation system
+
+COMPONENTS USED
+
+- Arduino UNO
+- Ultrasonic Sensor HC-SR04
+- L298N Motor Driver
+- DC Motors
+- Water Pump
+- Battery
+- Chassis
+- Connecting Wires
+
+WORKING
+
+The robot moves automatically with the help of DC motors. Ultrasonic sensors continuously detect obstacles in front of the robot. If any obstacle is detected, the robot changes its direction automatically.
+
+A small water pump sprays water on the floor while the cleaning pad cleans the surface.
+
+ADVANTAGES
+
+- Reduces manual cleaning work
+- Simple and low-cost design
+- Easy to operate
+- Useful for smart cleaning applications
+
+APPLICATIONS
+
+- Home cleaning
+- Office cleaning
+- Educational robotics projects
+- Automation systems
+
+CONCLUSION
+
+The Automatic Floor Cleaning Robot is an innovative and useful robotics project. It demonstrates the use of automation, sensors, and embedded systems for smart cleaning applications.
